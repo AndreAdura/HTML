@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<p id="top">
+
+	<title>Portifolio HTML</title>
+	
+	      <link rel="apple-touch-icon" sizes="57x57" href="image/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="image/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="image/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="image/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="image/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="image/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="image/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="image/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="image/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="image/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="image/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="image/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="image/favicon-16x16.png">
+      <link rel="manifest" href="image/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+	</head>
+	<body>
+		<style type="text/css"> 
+		h1{color: red}
+		</style>
+			<a href="#am"> <button> About Me</button></a>
+			<a href="#ms"> <button> My Skills</button></a>
+			<a href="#mg"> <button> My Goals</button></a>
+			<a href="#ctt"> <button> Contact</button></a>
+
+	
+<h1 id="am">About Me</h1>
+
+
+<img src="gaming.jpg" height="420px" width="640px">
+<p>
+	I'm a Brazilian guy who is passionate by arts in general, amateur musician, books lover and cinephile. After my entire life working with International Trade, lectures and sales I decided to run after my dream to do what I love, create the ultimate form of art ever made, GAMES!
+</p>
+<p>
+	After that tough decision I started my studies in Brazil as Digital Design at SAGA School of Arts, learning a little bit of image treatment, vectorial images, 3D modeling, visual script and concept art for games, meanwhile I still worked as a International trade Analyst.
+</p>
+
+<p>
+	When I first opened my eyes for all possibilities and elements involved in a game I realized that I need the proper knowledge to put all this forms of art together and there is only one way to do this, CODING!
+	And that's how I ended here in Canada doing my best to improve my habilities to finally reach my dream to work in the games industry.
+</p>
+
+<h1 id="ms">My Skills</h1>
+<img src="skills.jpg">
+		 
+		 <p>HTML, CSS;</p>
+		 <p>Basic Adobe Illustrator, Maya, Photoshop;	</p>	
+		 <p>Knowledge in algorithm and flowcharts; </p>	
+		 <p>Hardware basic notions;</p> 
+		 <p>Hands-On experience with Game Engines and Game Prototypes;</p>
+		
+
+		<h1 id="mg">My Goals</h1>
+		<img src="goal.png">
+
+<h2> Objcetives and Achievments</h2>
+		<p>My main goal is be part of the game industry but that's not enough, I need to achieve all needed skills to perform a great job as a game programmer and I need to cover all the involved knowledge to be capable of maintain the quality of my work as a professional.</p>
+		<p>
+			Besides the professional goal it's a personal objective to work with games and contribute with the amazing indie games community wich brings masterpieces for all game lovers every year.
+		</p>
+		<h1 id="ctt">Contact</h1>
+		<a href="https://www.linkedin.com/in/andr%C3%A9-henrique-adura-47a69811a/" target="_blank"> <img src="logoin.png" width="50" height="50"> </a>
+		<a href="https://github.com/AndreAdura" target="_blank"> <img src="github.png" width="50" height="50"> </a>
+		<br>
+
+		<a href="#top"><img src="top.png" width="30" height="30"></a>
+	</body>
+</html>
