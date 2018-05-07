@@ -13,3 +13,5 @@ https://www.freeformatter.com/html-formatter.html#ad-output
 bootstrap:
 https://getbootstrap.com/docs/4.1/getting-started/introduction/
 > Paste in the Head: <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+Sublime - To install emmet - Open Sublime, Ctrl+Shift+p, install package, install package again, type emmet, click emmet;
