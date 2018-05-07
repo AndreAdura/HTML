@@ -16,4 +16,6 @@ https://getbootstrap.com/docs/4.1/getting-started/introduction/
 
 Sublime - To install emmet - Open Sublime, Ctrl+Shift+p, install package, install package again, type emmet, click emmet;
 
-Sublime tricks - Ctrl + Space (show the auto-complete options for a command)
+Sublime tricks
+- Ctrl + Space (show the auto-complete options for a command)
+- <pre> </pre> (to preserve a "pre formated" text, with spaces and breaks)
