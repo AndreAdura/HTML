@@ -19,3 +19,4 @@ Sublime - To install emmet - Open Sublime, Ctrl+Shift+p, install package, instal
 Sublime tricks
 - Ctrl + Space (show the auto-complete options for a command)
 - <pre> </pre> (to preserve a "pre formated" text, with spaces and breaks)
+- Ctrl + / (select all the content and input Ctrl + / to comment all)
