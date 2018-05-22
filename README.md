@@ -20,3 +20,19 @@ Sublime tricks
 - Ctrl + Space (show the auto-complete options for a command)
 - <pre> </pre> (to preserve a "pre formated" text, with spaces and breaks)
 - Ctrl + / (select all the content and input Ctrl + / to comment all)
+
+Event Handler:
+
+document.getElement.AddEventListener('action', function() { code } );
+Ex:
+
+showList.addEventListener('click', function() {
+
+    OrderedList.removeAttribute('hidden');
+    let employees = document.getElementsByClassName('employee');
+    employees[0].innerHTML = 'Andre'
+    employees[1].innerHTML = 'Milad'
+    employees[2].innerHTML = 'Hibiki'
+    employees[3].innerHTML = 'Satori'
+
+});
